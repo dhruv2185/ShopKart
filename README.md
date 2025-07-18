@@ -25,7 +25,7 @@ Note: Recommender System might crash due to large volume of training requests as
 - An attractive and easy to use user interface for a seamless experience.
 
  ## Installation
-- Clone the project: `https://github.com/mittalvansh/shopkart.git`
+- Clone the project: `https://github.com/dhruv2185/shopkart.git`
 - Navigate to the frontend directory: `cd frontend`
 - Install the dependencies: `npm install`
 - From the root directory, navigate to the backend directory: `cd backend`
